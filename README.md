@@ -6,9 +6,6 @@
 
 ### Metodología
 
-<font color="red">Este texto estará en rojo</font>
-
-
 Este ataque involucra la creación de un punto de acceso inalámbrico falso que imita a una red legítima (Evil Twin), junto con la implementación de un portal cautivo abusivo que engaña a los usuarios haciéndoles creer una cosa:
 
 > La empresa responsable de su servicio de internet está pasando por una eventualidad técnica en su zona geográfica., Así como no dar lugar a dudas de que ya se está en contacto con la autoridad responsable, dándoles la oportunidad de resolver la interrupción de su servicio de internet solo proporcionando su contraseña, con la excusa de que solo así se podrá autorizar el cambio de conexión al clúster más cercano geográficamente y poder resolver el evento.
