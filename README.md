@@ -1,11 +1,14 @@
 # Spoofing_AuthorityM3Xa
 #### Robo y verificación de credenciales WiFi mediante el uso de Deauth aireplay attack, la captura y comparación del WPS Handshake., Creando un Evil Twin con un portal cautivo que despliega un sitio phishing de suplantación de Autoridad Mexicana.
 
-![[Spoofing_AuthorityM3Xa/Evidencia/1.png]]
+![Descripción de la imagen](https://github.com/Valentespiegel/Spoofing_AuthorityM3Xa/blob/master/Evidencia/1.png?raw=true)
 
 ---
 
 ### Metodología
+
+<font color="red">Este texto estará en rojo</font>
+
 
 Este ataque involucra la creación de un punto de acceso inalámbrico falso que imita a una red legítima (Evil Twin), junto con la implementación de un portal cautivo abusivo que engaña a los usuarios haciéndoles creer una cosa:
 
@@ -33,7 +36,7 @@ Se utilizará la herramienta automatizada de v1s1t0r1sh3r3 llamada [airgeddon](h
 
 Si hablamos de chipsets en tarjetas de red, podemos hablar de cuál es el tipo de tarjeta que necesitamos. En esta ocasión estamos usando el chip **Mediatek MT7612u**, el cual soporta el modo maestro y monitor, al igual que una **Atheros AR9271**, el cual soporta solo el modo monitor.
 
-![[Spoofing_AuthorityM3Xa/Evidencia/2.png|500]]
+![Descripción de la imagen](https://github.com/Valentespiegel/Spoofing_AuthorityM3Xa/blob/master/Evidencia/2.png?raw=true)
 
 ---
 
@@ -51,7 +54,7 @@ Si hablamos de chipsets en tarjetas de red, podemos hablar de cuál es el tipo d
 10. Acepte la captura de caracteres especiales, así como el idioma en el que se desplegará el sitio falso.
 11. A continuación, se desplegarán 6 consolas en la pantalla. La que nos interesa se encuentra situada en la esquina superior izquierda, donde se indican **Víctimas ya en el portal cautivo**, **Intentos de contraseña** y **Ruta de las credenciales obtenidas en caso de tener éxito**.
 
-![[Spoofing_AuthorityM3Xa/Evidencia/3.png|500]]
+![Descripción de la imagen](https://github.com/Valentespiegel/Spoofing_AuthorityM3Xa/blob/master/Evidencia/3.png?raw=true)
 
 ---
 
