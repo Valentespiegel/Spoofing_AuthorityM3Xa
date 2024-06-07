@@ -1,7 +1,7 @@
 # Spoofing_AuthorityM3Xa
 #### Robo y verificación de credenciales WiFi mediante el uso de Deauth aireplay attack, la captura y comparación del WPS Handshake., Creando un Evil Twin con un portal cautivo que despliega un sitio phishing de suplantación de Autoridad Mexicana.
 
-![[Spoofing_AuthorityM3Xa/Evidencia/1.png|500]]
+![[Spoofing_AuthorityM3Xa/Evidencia/1.png]]
 
 ---
 
